@@ -11,8 +11,8 @@
         <link href="/shared/css/helpers.css" rel="stylesheet" />
         <link href="/shared/css/type.css" rel="stylesheet" />
         <link href="/shared/css/custom.css" rel="stylesheet" />
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
-        <link href="https://fonts.googleapis.com/css?family=Roboto:400,700|Roboto+Condensed:700" rel="stylesheet">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto:400,700|Roboto+Condensed:700" rel="stylesheet" />
         <link href="/shared/build-mobile-global.css" rel="stylesheet" />
         <script src="/shared/build-mobile-global.js" />
         <xsl:apply-templates select="xhtml:html/xhtml:head/node()" />
@@ -50,10 +50,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&amp;l'+l:'';j.async=true;j.src=
                 <div id="c_header-wrapper" class="c_section-wrapper c_header-wrapper cr background-color-black">
                   <header class="container brand-header" id="c_header" role="banner">
                     <div class="brand-header-logo">
-                      <a href="http://www.colorado.edu"><img src="/shared/images/cu-boulder-logo-text-white.svg" alt="University of Colorado Boulder"></a>
+                      <a href="http://www.colorado.edu"><img src="/shared/images/cu-boulder-logo-text-white.svg" alt="University of Colorado Boulder" /></a>
                     </div>
                     <div class="brand-header-beboulder">
-                      <img src="/shared/images/be-boulder-white.svg" alt="Be Boulder.">
+                      <img src="/shared/images/be-boulder-white.svg" alt="Be Boulder." />
                     </div>
                   </header>
                   <div class="container">
@@ -86,6 +86,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&amp;l'+l:'';j.async=true;j.src=
                                   University of Colorado Boulder<br />
                                   552 UCB<br />
                                   Boulder, CO 80309-0552
+                                </p>
                               </div>
                             </div>
                           </div>
