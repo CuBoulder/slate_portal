@@ -148,9 +148,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&amp;l'+l:'';j.async=true;j.src=
                               <h2 class="c_block-title cr">
                                 <a href="http://www.colorado.edu/" class="cr">University of Colorado Boulder</a>
                               </h2>
-                              <div class="c_content cr">
-                                <p class="cr">&#xA9; Regents of the University of Colorado<br class="cr" /><a href="http://www.colorado.edu/contact-us" class="cr">Contact Us</a>&#xA0;&#x2022;&#xA0;<a href="http://www.colorado.edu/policies/privacy-statement" class="cr">Privacy</a>&#xA0;&#x2022;&#xA0;<a href="http://www.colorado.edu/about/legal-trademarks" class="cr">Legal &amp; Trademarks</a>&#xA0;<br class="cr" /><a href="http://www.colorado.edu/accessibility" class="cr">Accessibility</a>&#xA0;&#x2022;&#xA0;<a href="http://www.colorado.edu/about/your-right-know" class="cr">Student Consumer Information</a>&#xA0;&#x2022;&#xA0;<a href="http://www.colorado.edu/policies" class="cr">Policies</a>&#xA0;&#x2022; <a href="https://www.cu.edu/cu-careers/cu-boulder" class="cr">CU Boulder Careers</a></p>
-                                <p class="cr">Download the&#xA0;<strong class="cr"><a href="http://www.colorado.edu/node/5273/attachment" class="cr">Clery Act Annual Security &amp;&#xA0;Fire safety report</a></strong>,&#xA0;or&#xA0;<strong class="cr"><a href="http://police.colorado.edu/records-reports/clery-act-and-campus-security-authorities" class="cr">request a paper&#xA0;copy</a></strong>&#xA0;from&#xA0;the CU-Boulder&#xA0;<strong class="cr"><a href="http://police.colorado.edu/" class="cr">Police Department</a></strong>. &#xA0;</p>
+                              <div class="c_content cr text-align-center">
+                                <p class="cr">
+                                  <a href="https://www.colorado.edu"><strong>University of Colorado Boulder</strong></a><br />
+                                  Office of Admissions<br />
+                                  Regent Administrative Center 125<br />
+                                  University of Colorado Boulder<br />
+                                  552 UCB<br />
+                                  Boulder, CO 80309-0552
                               </div>
                             </div>
                           </div>
