@@ -42,63 +42,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&amp;l'+l:'';j.async=true;j.src=
         <div id="page">
           <div class="c_fit-vids-style cr" id="c_fit-vids-style" style="display: none;">&#xAD;</div>
           <div class="c_html c_not-front c_not-logged-in c_no-sidebars c_page-node c_page-node- c_page-node-12 c_node-type-page c_layout-default c_headings-bold c_page-title-image-background-transparent c_block-icons-inherit c_layout-responsive c_max-width-1200 c_primary-sidebar-second c_banner-black c_layout-wide cr">
-            <div id="c_sticky-menu" class="c_clearfix c_has-shadow cr" style="display: none;">
-              <a href="http://www.colorado.edu/" class="cr">
-                <img src="/sites/all/themes/custom/homepage2016/logo.png" alt=" " class="cr" />
-                <span class="c_site-name c_clearfix cr">University of Colorado Boulder</span>
-              </a>
-              <h2 class="c_element-invisible cr">Main menu</h2>
-              <ul id="c_sticky-main-menu" class="c_links c_inline c_clearfix cr">
-                <li class="c_menu-1239 c_first cr">
-                  <a href="http://www.colorado.edu/" id="c_sticky-menu-home-link" class="cr">
-                    <i class="c_fa c_fa-home cr">
-                      <!--#-->
-                    </i>
-                    <span class="c_element-invisible cr">Home</span>
-                  </a>
-                </li>
-                <li class="c_menu-2948 cr">
-                  <a href="http://www.colorado.edu/about" class="cr">About</a>
-                </li>
-                <li class="c_menu-2950 cr">
-                  <a href="http://www.colorado.edu/academics" class="cr">Academics</a>
-                </li>
-                <li class="c_menu-2952 cr">
-                  <a href="http://www.colorado.edu/admissions" class="cr">Admissions</a>
-                </li>
-                <li class="c_menu-2954 cr">
-                  <a href="http://www.colorado.edu/research-and-creative-work" class="cr">Research</a>
-                </li>
-                <li class="c_menu-2956 c_last cr">
-                  <a href="http://www.colorado.edu/campus-life" class="cr">Campus Life</a>
-                </li>
-              </ul>
-            </div>
-            <div class="c_tracking-pixels-top cr" style="display:none;" />
             <div id="c_page-wrapper" class="c_page-wrapper cr">
               <div id="c_page" class="c_page c_node-published cr">
-                <div id="c_alerts-wide-wrapper" class="c_section-wrapper cr">
-                  <div id="c_alerts" class="c_clearfix cr">
-                    <div class="c_region c_region-alerts c_clearfix cr">
-                      <div id="c_block-cu-alerts-cu-alerts" class="c_block c_block-cu-alerts c_block-cu-alerts-cu-alerts cr">
-                        <div class="c_block-inner-wrapper c_block-inner c_clearfix cr">
-                          <div class="c_content cr">
-                            <div id="c_cu-alerts" data-remote-url="http://alerts.colorado.edu/json_alerts?limit=1" class="cr" />
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
                 <div id="c_header-wrapper" class="c_section-wrapper c_header-wrapper cr">
                   <header class="c_header c_container-max c_clearfix cr" id="c_header" role="banner">
                     <div id="c_branding" class="c_col-lg-8 c_col-md-8 c_col-sm-12 c_col-xs-12 cr">
-                      <div id="c_print-header" class="c_clearfix cr">
-                        <div class="c_print-site-name cr">University of Colorado Boulder</div>
-                        <div class="c_print-site-logo cr">
-                          <img src="/profiles/express/themes/expressbase/images/print-logo.png" alt="University of Colorado Boulder" class="cr" />
-                        </div>
-                      </div>
                       <a href="http://www.colorado.edu/" rel="home" title="University of Colorado Boulder " class="c_custom-logo-link cr">
                         <img class="c_custom-logo c_custom-logo-white cr" src="/sites/default/files/custom_logo/beboulder-logo-2x.png" alt="University of Colorado Boulder logo" />
                       </a>
@@ -115,127 +63,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&amp;l'+l:'';j.async=true;j.src=
                           <div class="c_header__site-slogan cr" id="c_site-slogan">University of Colorado <strong class="cr">Boulder</strong></div>
                         </div>
                       </div>
-                      <div class="c_mobile-menu-toggle cr">
-                        <a id="c_toggle" href="http://www.colorado.edu/students#mobile-menu" title="Menu" class="cr">
-                          <span class="c_mobile-menu-text cr">Menu</span>
-                          <i class="c_fa c_fa-reorder c_fa-fw cr">
-                            <!--#-->
-                          </i>
-                        </a>
-                      </div>
-                    </div>
-                    <div id="c_search" class="c_col-lg-4 c_col-md-4 cr">
-                      <div class="c_region c_region-search-box c_clearfix cr">
-                        <div id="c_block-google-appliance-ga-block-search-form" class="c_block c_block-google-appliance c_block-google-appliance-ga-block-search-form cr">
-                          <div class="c_block-inner-wrapper c_block-inner c_clearfix cr">
-                            <div class="c_content cr" />
-                          </div>
-                        </div>
-                      </div>
                     </div>
                     <div id="global" />
                   </header>
-                </div>
-                <div id="c_navigation-wrapper" class="c_navigation-wrapper cr">
-                  <div id="c_main-menu-wrapper" class="c_section-wrapper cr">
-                    <div id="c_navigation" class="c_container-max cr">
-                      <div class="c_nav-inner c_col-lg-12 c_col-md-12 c_clearfix cr">
-                        <nav role="navigation" tabindex="-1" class="c_region c_region-menu c_action-none cr">
-                          <ul id="c_action-menu" class="c_links c_inline c_clearfix c_action-menu cr">
-                            <li class=" cr">
-                              <a href="http://www.colorado.edu/students" class="c_focus--mouse cr">Students</a>
-                            </li>
-                            <li class=" cr">
-                              <a href="http://www.colorado.edu/facultystaff" class="cr">Faculty/Staff</a>
-                            </li>
-                            <li class=" cr">
-                              <a href="http://www.colorado.edu/parents" title="" class="cr">Families</a>
-                            </li>
-                            <li class="c_last cr">
-                              <a href="http://www.colorado.edu/alumni" title="" class="c_last cr">Alumni</a>
-                            </li>
-                          </ul>
-                          <ul class="c_links c_inline c_clearfix cr" id="c_main-menu">
-                            <li class="c_first cr">
-                              <a href="http://www.colorado.edu/" id="c_home-link" class="c_first cr">
-                                <i class="c_fa c_fa-home cr">
-                                  <!--#-->
-                                </i>
-                                <span class="c_element-invisible cr">Home</span>
-                              </a>
-                            </li>
-                            <li class=" cr">
-                              <a href="http://www.colorado.edu/about" class="cr">About</a>
-                            </li>
-                            <li class=" cr">
-                              <a href="http://www.colorado.edu/academics" class="cr">Academics</a>
-                            </li>
-                            <li class=" cr">
-                              <a href="http://www.colorado.edu/admissions" class="cr">Admissions</a>
-                            </li>
-                            <li class=" cr">
-                              <a href="http://www.colorado.edu/research-and-creative-work" class="cr">Research</a>
-                            </li>
-                            <li class="c_last cr">
-                              <a href="http://www.colorado.edu/campus-life" class="c_last cr">Campus Life</a>
-                            </li>
-                          </ul>
-                        </nav>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div id="c_mobile-navigation-wrapper" style="display: none;" class="cr">
-                  <div id="c_mobile-navigation" class="cr">
-                    <div id="c_mobile-search" class="cr">
-                      <div class="c_region c_region-search-box c_clearfix cr">
-                        <div class="c_region c_region-search-box c_clearfix cr">
-                          <div id="c_block-google-appliance-ga-block-search-form" class="c_block c_block-google-appliance c_block-google-appliance-ga-block-search-form cr">
-                            <div class="c_block-inner-wrapper c_block-inner c_clearfix cr">
-                              <div class="c_content cr" />
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <nav id="c_mobile-menu" role="navigation" class="cr">
-                      <h2 class="c_element-invisible cr">Mobile menu</h2>
-                      <ul id="c_main-menu-mobile" class="c_links c_clearfix cr">
-                        <li class="c_menu-1239 c_first cr">
-                          <a href="http://www.colorado.edu/" class="cr">Home</a>
-                        </li>
-                        <li class="c_menu-2948 cr">
-                          <a href="http://www.colorado.edu/about" class="cr">About</a>
-                        </li>
-                        <li class="c_menu-2950 cr">
-                          <a href="http://www.colorado.edu/academics" class="cr">Academics</a>
-                        </li>
-                        <li class="c_menu-2952 cr">
-                          <a href="http://www.colorado.edu/admissions" class="cr">Admissions</a>
-                        </li>
-                        <li class="c_menu-2954 cr">
-                          <a href="http://www.colorado.edu/research-and-creative-work" class="cr">Research</a>
-                        </li>
-                        <li class="c_menu-2956 c_last cr">
-                          <a href="http://www.colorado.edu/campus-life" class="cr">Campus Life</a>
-                        </li>
-                      </ul>
-                      <ul id="c_secondary-menu-mobile" class="c_links c_clearfix cr">
-                        <li class="c_menu-2958 c_active-trail c_first c_active cr">
-                          <a href="http://www.colorado.edu/students" class="c_active-trail c_active cr">Students</a>
-                        </li>
-                        <li class="c_menu-2960 cr">
-                          <a href="http://www.colorado.edu/facultystaff" class="cr">Faculty/Staff</a>
-                        </li>
-                        <li class="c_menu-2962 cr">
-                          <a href="http://www.colorado.edu/parents" title="" class="cr">Families</a>
-                        </li>
-                        <li class="c_menu-2964 c_last cr">
-                          <a href="http://www.colorado.edu/alumni" title="" class="cr">Alumni</a>
-                        </li>
-                      </ul>
-                    </nav>
-                  </div>
                 </div>
                 <div class="c_top-content-wrapper cr">
                   <div class="c_top-content cr">
@@ -328,39 +158,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&amp;l'+l:'';j.async=true;j.src=
                   </div>
                 </div>
               </div>
-            </div>
-            <div class="c_tracking-pixels-top cr" style="display:none;" />
-            <div id="c_cu_back_to_top" style="display: none;" class="cr">
-              <a href="http://www.colorado.edu/students#page" title="Back to Top" class="cr">Back to Top</a>
-            </div>
-            <div id="c_cboxOverlay" style="display: none;" class="cr" />
-            <div id="c_colorbox" class=" cr" role="dialog" tabindex="-1" style="display: none;">
-              <div id="c_cboxWrapper" class="cr">
-                <div class="cr">
-                  <div id="c_cboxTopLeft" style="float: left;" class="cr" />
-                  <div id="c_cboxTopCenter" style="float: left;" class="cr" />
-                  <div id="c_cboxTopRight" style="float: left;" class="cr" />
-                </div>
-                <div style="clear: left;" class="cr">
-                  <div id="c_cboxMiddleLeft" style="float: left;" class="cr" />
-                  <div id="c_cboxContent" style="float: left;" class="cr">
-                    <div id="c_cboxTitle" style="float: left;" class="cr" />
-                    <div id="c_cboxCurrent" style="float: left;" class="cr" />
-                    <button type="button" id="c_cboxPrevious" class="cr" />
-                    <button type="button" id="c_cboxNext" class="cr" />
-                    <button type="button" id="c_cboxSlideshow" class="cr" />
-                    <div id="c_cboxLoadingOverlay" style="float: left;" class="cr" />
-                    <div id="c_cboxLoadingGraphic" style="float: left;" class="cr" />
-                  </div>
-                  <div id="c_cboxMiddleRight" style="float: left;" class="cr" />
-                </div>
-                <div style="clear: left;" class="cr">
-                  <div id="c_cboxBottomLeft" style="float: left;" class="cr" />
-                  <div id="c_cboxBottomCenter" style="float: left;" class="cr" />
-                  <div id="c_cboxBottomRight" style="float: left;" class="cr" />
-                </div>
-              </div>
-              <div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;" class="cr" />
             </div>
           </div>
         </div>
