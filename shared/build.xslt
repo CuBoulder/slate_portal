@@ -10,6 +10,7 @@
         <link href="/shared/css/grid.css" rel="stylesheet" />
         <link href="/shared/css/helpers.css" rel="stylesheet" />
         <link href="/shared/css/type.css" rel="stylesheet" />
+        <link href="/shared/css/custom.css" rel="stylesheet" />
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
         <link href="https://fonts.googleapis.com/css?family=Roboto:400,700|Roboto+Condensed:700" rel="stylesheet">
         <link href="/shared/build-mobile-global.css" rel="stylesheet" />
@@ -46,34 +47,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&amp;l'+l:'';j.async=true;j.src=
           <div class="c_html c_not-front c_not-logged-in c_no-sidebars c_page-node c_page-node- c_page-node-12 c_node-type-page c_layout-default c_headings-bold c_page-title-image-background-transparent c_block-icons-inherit c_layout-responsive c_max-width-1200 c_primary-sidebar-second c_banner-black c_layout-wide cr">
             <div id="c_page-wrapper" class="c_page-wrapper cr">
               <div id="c_page" class="c_page c_node-published cr">
-                <div id="c_header-wrapper" class="c_section-wrapper c_header-wrapper cr">
-                  <header class="c_header c_container-max c_clearfix cr" id="c_header" role="banner">
-                    <div id="c_branding" class="c_col-lg-8 c_col-md-8 c_col-sm-12 c_col-xs-12 cr">
-                      <a href="http://www.colorado.edu/" rel="home" title="University of Colorado Boulder " class="c_custom-logo-link cr">
-                        <img class="c_custom-logo c_custom-logo-white cr" src="/sites/default/files/custom_logo/beboulder-logo-2x.png" alt="University of Colorado Boulder logo" />
-                      </a>
-                      <a href="http://www.colorado.edu/" rel="home" title="University of Colorado Boulder " class="c_custom-logo-link cr">
-                        <img class="c_custom-logo c_custom-logo-black cr" src="/sites/default/files/custom_logo/beboulder-logo-2x_0.png" alt="University of Colorado Boulder logo" />
-                      </a>
-                      <div class="c_element-invisible cr">
-                        <div class="c_header__name-and-slogan cr" id="c_name-and-slogan">
-                          <div class="c_header__site-name cr" id="c_site-name">
-                            <a href="http://www.colorado.edu/" title="Home" class="c_header__site-link cr" rel="home">
-                              <span class="cr">University of Colorado Boulder</span>
-                            </a>
-                          </div>
-                          <div class="c_header__site-slogan cr" id="c_site-slogan">University of Colorado <strong class="cr">Boulder</strong></div>
-                        </div>
-                      </div>
+                <div id="c_header-wrapper" class="c_section-wrapper c_header-wrapper cr background-color-black">
+                  <header class="container brand-header" id="c_header" role="banner">
+                    <div class="brand-header-logo">
+                      <a href="http://www.colorado.edu"><img src="/shared/images/cu-boulder-logo-text-white.svg" alt="University of Colorado Boulder"></a>
                     </div>
-                    <div id="global" />
+                    <div class="brand-header-beboulder">
+                      <img src="/shared/images/be-boulder-white.svg" alt="Be Boulder.">
+                    </div>
                   </header>
+                  <div class="container">
+                    <div id="global" />
+                  </div>
                 </div>
                 <div class="c_top-content-wrapper cr">
                   <div class="c_top-content cr">
                     <div id="c_content-wrapper" class="c_section-wrapper c_content-wrapper cr">
-                      <div id="c_main" class="c_clearfix c_container-max cr" style=" padding-bottom: 10px; padding-left: 25px;">
-                        <div id="content" style="padding: 15px;">
+                      <div id="c_main" class="c_clearfix container cr" style=" padding: 20px 0;">
+                        <div id="content">
                           <xsl:apply-templates select="xhtml:html/xhtml:body/node()" />
                         </div>
                       </div>
@@ -85,69 +76,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&amp;l'+l:'';j.async=true;j.src=
                     <div id="c_site-info" class="c_container-max cr">
                       <footer id="c_site-footer" class="c_region c_region-site-info c_footer-2col cr">
                         <div id="c_site-footer-content" class="c_col-lg-12 c_col-md-12 c_col-sm-12 c_col-xs-12 cr">
-                          <div id="c_block-bean-social-links-html" class="c_block c_block-bean c_block-bean-type-block c_block-bean-social-links-html cr">
-                            <div class="c_block-inner-wrapper c_block-inner c_clearfix cr">
-                              <div class="c_content cr">
-                                <div class="c_entity c_entity-bean c_bean-block c_clearfix cr">
-                                  <div class="c_content cr">
-                                    <div class="c_field c_field-name-field-block-text c_field-type-text-long c_field-label-hidden cr">
-                                      <div class="c_item-list cr" style="text-align:center;">
-                                        <ul class="c_social-links c_social-links-horizontal-icons-only c_social-links-32 c_soc cr">
-                                          <li class="c_first cr">
-                                            <a href="http://www.facebook.com/cuboulder" itemprop="sameAs" title="Facebook" class="cr">
-                                              <span class="c_socicon c_soc-facebook cr" />
-                                              <span class="c_social-links-text c_social-links-text-facebook c_element-invisible cr">Facebook</span>
-                                            </a>
-                                          </li>
-                                          <li class="cr">
-                                            <a href="http://www.twitter.com/cuboulder" itemprop="sameAs" title="Twitter" class="cr">
-                                              <span class="c_socicon c_soc-twitter cr" />
-                                              <span class="c_social-links-text c_social-links-text-twitter c_element-invisible cr">Twitter</span>
-                                            </a>
-                                          </li>
-                                          <li class="cr">
-                                            <a href="https://www.youtube.com/cuboulder" itemprop="sameAs" title="YouTube" class="cr">
-                                              <span class="c_socicon c_soc-youtube cr" />
-                                              <span class="c_social-links-text c_social-links-text-youtube c_element-invisible cr">YouTube</span>
-                                            </a>
-                                          </li>
-                                          <li class="cr">
-                                            <a href="http://www.linkedin.com/company/university-of-colorado-boulder" itemprop="sameAs" title="LinkedIn" class="cr">
-                                              <span class="c_socicon c_soc-linkedin cr" />
-                                              <span class="c_social-links-text c_social-links-text-linkedin c_element-invisible cr">LinkedIn</span>
-                                            </a>
-                                          </li>
-                                          <li class="cr">
-                                            <a href="http://instagram.com/cuboulder" itemprop="sameAs" title="Instagram" class="cr">
-                                              <span class="c_socicon c_soc-instagram cr" />
-                                              <span class="c_social-links-text c_social-links-text-instagram c_element-invisible cr">Instagram</span>
-                                            </a>
-                                          </li>
-                                          <li class="cr">
-                                            <a href="https://plus.google.com/b/109807811562358263978/109807811562358263978/posts" itemprop="sameAs" title="Google Plus" class="cr">
-                                              <span class="c_socicon c_soc-googleplus cr" />
-                                              <span class="c_social-links-text c_social-links-text-googleplus c_element-invisible cr">Google Plus</span>
-                                            </a>
-                                          </li>
-                                          <li class="c_last cr">
-                                            <a href="http://pinterest.com/cuboulder/" itemprop="sameAs" title="Pinterest" class="cr">
-                                              <span class="c_socicon c_soc-pinterest cr" />
-                                              <span class="c_social-links-text c_social-links-text-pinterest c_element-invisible cr">Pinterest</span>
-                                            </a>
-                                          </li>
-                                        </ul>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
                           <div id="c_block-cu-site-info-site-info" class="c_block c_block-cu-site-info c_has-block-title c_block-cu-site-info-site-info cr">
                             <div class="c_block-inner-wrapper c_block-inner c_clearfix cr">
-                              <h2 class="c_block-title cr">
-                                <a href="http://www.colorado.edu/" class="cr">University of Colorado Boulder</a>
-                              </h2>
                               <div class="c_content cr text-align-center">
                                 <p class="cr">
                                   <a href="https://www.colorado.edu"><strong>University of Colorado Boulder</strong></a><br />

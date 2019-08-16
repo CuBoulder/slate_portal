@@ -1,0 +1,25 @@
+.brand-header {
+  display:flex;
+  justify-content: space-between;
+  align-items:center;
+}
+@media screen and (max-width:767px) {
+  .brand-header {
+    display: block;
+  }
+}
+.brand-header-logo {
+  max-width:320px;
+  min-width: 180px;
+  width:100%;
+}
+.brand-header img {
+  width:100%;
+  height:auto;
+  display: block;
+}
+.brand-header-beboulder {
+  max-width:240px;
+  width:100%;
+  min-width: 180px;
+}
