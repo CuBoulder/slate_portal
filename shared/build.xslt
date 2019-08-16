@@ -10,6 +10,8 @@
         <link href="/shared/css/grid.css" rel="stylesheet" />
         <link href="/shared/css/helpers.css" rel="stylesheet" />
         <link href="/shared/css/type.css" rel="stylesheet" />
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+        <link href="https://fonts.googleapis.com/css?family=Roboto:400,700|Roboto+Condensed:700" rel="stylesheet">
         <link href="/shared/build-mobile-global.css" rel="stylesheet" />
         <script src="/shared/build-mobile-global.js" />
         <xsl:apply-templates select="xhtml:html/xhtml:head/node()" />
