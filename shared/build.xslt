@@ -10,6 +10,7 @@
         <link href="/shared/css/grid.css" rel="stylesheet" />
         <link href="/shared/css/helpers.css" rel="stylesheet" />
         <link href="/shared/css/type.css" rel="stylesheet" />
+        <link href="/shared/css/forms.css" rel="stylesheet" />
         <link href="/shared/css/custom.css" rel="stylesheet" />
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous" />
         <link href="https://fonts.googleapis.com/css?family=Roboto:400,700|Roboto+Condensed:700" rel="stylesheet" />
@@ -34,7 +35,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&amp;l'+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-M3DX2QP');</script>
         <!-- End Google Tag Manager -->
       </head>
-      <body>
+      <body class="background-color-black">
         <!-- Google Tag Manager (noscript) -->
         <noscript>
           <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M3DX2QP" height="0" width="0" style="display:none;visibility:hidden">
@@ -47,7 +48,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&amp;l'+l:'';j.async=true;j.src=
           <div class="c_html c_not-front c_not-logged-in c_no-sidebars c_page-node c_page-node- c_page-node-12 c_node-type-page c_layout-default c_headings-bold c_page-title-image-background-transparent c_block-icons-inherit c_layout-responsive c_max-width-1200 c_primary-sidebar-second c_banner-black c_layout-wide cr">
             <div id="c_page-wrapper" class="c_page-wrapper cr">
               <div id="c_page" class="c_page c_node-published cr">
-                <div id="c_header-wrapper" class="c_section-wrapper c_header-wrapper cr background-color-black">
+                <div id="c_header-wrapper" class="c_section-wrapper c_header-wrapper cr background-black padding-vertical">
                   <header class="container brand-header" id="c_header" role="banner">
                     <div class="brand-header-logo">
                       <a href="http://www.colorado.edu"><img src="/shared/images/cu-boulder-logo-text-white.svg" alt="University of Colorado Boulder" /></a>
@@ -56,11 +57,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&amp;l'+l:'';j.async=true;j.src=
                       <img src="/shared/images/be-boulder-white.svg" alt="Be Boulder." />
                     </div>
                   </header>
+                </div>
+                <div class="background-gray-light padding-vertical-small">
                   <div class="container">
                     <div id="global" />
                   </div>
                 </div>
-                <div class="c_top-content-wrapper cr">
+                <div class="c_top-content-wrapper cr background-white">
                   <div class="c_top-content cr">
                     <div id="c_content-wrapper" class="c_section-wrapper c_content-wrapper cr">
                       <div id="c_main" class="c_clearfix container cr" style=" padding: 20px 0;">
@@ -71,29 +74,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&amp;l'+l:'';j.async=true;j.src=
                     </div>
                   </div>
                 </div>
-                <div id="c_footer-section" class="cr">
-                  <div id="c_site-info-wrapper" class="c_section-wrapper c_site-info-wrapper cr">
-                    <div id="c_site-info" class="c_container-max cr">
-                      <footer id="c_site-footer" class="c_region c_region-site-info c_footer-2col cr">
-                        <div id="c_site-footer-content" class="c_col-lg-12 c_col-md-12 c_col-sm-12 c_col-xs-12 cr">
-                          <div id="c_block-cu-site-info-site-info" class="c_block c_block-cu-site-info c_has-block-title c_block-cu-site-info-site-info cr">
-                            <div class="c_block-inner-wrapper c_block-inner c_clearfix cr">
-                              <div class="c_content cr text-align-center">
-                                <p class="cr">
-                                  <a href="https://www.colorado.edu"><strong>University of Colorado Boulder</strong></a><br />
-                                  Office of Admissions<br />
-                                  Regent Administrative Center 125<br />
-                                  University of Colorado Boulder<br />
-                                  552 UCB<br />
-                                  Boulder, CO 80309-0552
-                                </p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </footer>
-                    </div>
-                  </div>
+                <div id="c_footer-section" class="cr background-black">
+                  <footer id="c_site-footer" class="c_region c_region-site-info c_footer-2col cr container text-align-center padding-vertical">
+                    <p class="cr">
+                      <a href="https://www.colorado.edu"><strong>University of Colorado Boulder</strong></a><br />
+                      Office of Admissions<br />
+                      Regent Administrative Center 125<br />
+                      University of Colorado Boulder<br />
+                      552 UCB<br />
+                      Boulder, CO 80309-0552
+                    </p>
+                  </footer>
                 </div>
               </div>
             </div>

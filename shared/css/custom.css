@@ -1,17 +1,13 @@
-.brand-header {
-  display:flex;
-  justify-content: space-between;
-  align-items:center;
+.brand-header-wrapper {
+  padding:20px 0;
 }
-@media screen and (max-width:767px) {
-  .brand-header {
-    display: block;
-  }
+
+.brand-header {
+  display: block;
 }
 .brand-header-logo {
-  max-width:320px;
-  min-width: 180px;
-  width:100%;
+  margin-bottom: 20px;
+  max-width:240px;
 }
 .brand-header img {
   width:100%;
@@ -22,4 +18,24 @@
   max-width:240px;
   width:100%;
   min-width: 180px;
+}
+
+
+@media screen and (min-width:768px) {
+  .brand-header {
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+  }
+  .brand-header-logo {
+    max-width:320px;
+    min-width: 180px;
+    width:100%;
+  }
+}
+
+
+
+#global ul {
+  margin:0;
 }
